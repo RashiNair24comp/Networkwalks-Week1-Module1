@@ -14,7 +14,7 @@ This repository contains the documentation and screenshots for my Week 1, Module
 - **Shared Folder:** `/downloads`
 
 ## Configuration Evidence
-Screenshots of the Kali Linux setup, network configuration, and connectivity verification are available in the `Screenshots` folder.
+Screenshots of the Kali Linux desktop and NAT Network configuration are available in the repository's main folder (1.png and 7.png).
 
 ## VM Snapshot
 Snapshot created: `Kali_Week1_Module1_Completed`
